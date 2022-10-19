@@ -14,7 +14,7 @@ Equipment used in this tutorial:
     Node1: 10.130.127.167
     Node2: 10.130.128.35
     LoadBalancer: 128.199.187.215
-    Domain: defnex.com
+    Domain: example.com
     Node1 and Node2 have already installed Nginx web server and PHP-FPM 7.2. Each node is made index.php file containing the text node1 and node2 as a test page to find out which pages are read from which node.
 
 # 1.Install HAProxy
