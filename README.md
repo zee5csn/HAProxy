@@ -181,7 +181,9 @@ listen stats
 # 4.Statistics
     Browse http://domain.com:1234/stats to read HAProxy statistics.
     
-    ![04 cara-setting-load-balancing-dengan-haproxy_statistik-haproxy](https://user-images.githubusercontent.com/52296424/196809129-95b34fc2-8d6a-4cbe-af17-4c21dbd778db.jpg)
+ ![04 cara-setting-load-balancing-dengan-haproxy_statistik-haproxy](https://user-images.githubusercontent.com/52296424/196809129-95b34fc2-8d6a-4cbe-af17-4c21dbd778db.jpg)
+
+
 
     https://youtu.be/idFwu2z5-zY
 
